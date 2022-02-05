@@ -2,5 +2,5 @@
 <project name="Hello World Project" default="info">
 	<target name="info">
 		<echo> Hellow World! </echo>
-	</target/
+	</target>
 </project>
